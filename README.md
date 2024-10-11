@@ -11,5 +11,5 @@ Etapas inciais:
 
 --
 
-Arquivo ' Municip ' convertido para utilização em Power BI
-Biblioteca utilizada: dbfread
+- Arquivo ' Municip ' convertido para utilização em Power BI
+- Biblioteca utilizada: dbfread
